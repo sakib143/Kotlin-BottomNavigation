@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<!--    NOTE:- Here All declaired ID should be same as Navigations id in DESIGN -->
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        />
+
+
+    <item
+        android:id="@+id/favFragment"
+        android:title="Favourites"
+        />
+
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="Settings"
+        />
+
+</menu>
